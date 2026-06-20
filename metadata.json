@@ -1,0 +1,6 @@
+{
+  "name": "ZELLIX 3D",
+  "description": "Multi-page business website for ZELLIX 3D, a custom 3D printing studio based in Sousse, Tunisia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
